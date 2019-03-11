@@ -6,6 +6,10 @@ import org.junit.jupiter.api.Test;
 
 class MatricesTest {
 
+  public static void main(String[] args) {
+
+  }
+  
   private static final int[][] Input1 = {{-1}};
   private static final int[][] Input2 = {{1,2},{4,3}};
   private static final int[][] Input3 = {{2,4,6},{8,10,12},{14,16,18}};
